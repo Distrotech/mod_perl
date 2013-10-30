@@ -1,0 +1,17 @@
+Name: Philip M. Gollucci
+Email: pgollucci@p6m7g8.com
+URL: http://www.p6m7g8.net
+Image: philip-gollucci.jpg
+Summary: Documentation, modules, mod_perl 2.0 API renaming
+
+Philip has been using Apache and mod_perl since September of 1998.
+He has been actively contributing patches and testing things mainly 
+on <a href="http://freebsd.org">FreeBSD</a> since January 2005.  He 
+also tries vainly to help people on the mailing lists.
+
+In his non-existant free time, Philip maintains a few modules 
+with Stas Bekman.  You can view his 
+<a href="http://search.cpan.org/~pgollucci">CPAN directory here</a>.
+He also maintains several ports of CPAN modules for FreeBSD. 
+
+In November 2005, he joined the <a href="http://ticketmaster.com">TicketMaster</a> team.

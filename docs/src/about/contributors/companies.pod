@@ -1,0 +1,48 @@
+=head1 NAME
+
+Companies sponsoring and supporting mod_perl developers
+
+=head1 Description
+
+Several companies have contributed to mod_perl by sponsoring mod_perl
+developers and/or allowing their employees to work on mod_perl as a
+part of their day job.
+
+=head1 Companies
+
+=over
+
+=item * Critical Path
+
+Critical Path (http://www.cp.net/) has sponsored Doug
+MacEachern. (XXX: when?)
+
+=item * Covalent Technologies
+
+Covalent Technologies (http://www.covalent.net/) has sponsored Doug
+MacEachern. (XXX: when/what?)
+
+=item * TicketMaster
+
+From the fall of 2001 till mid-2005 TicketMaster
+(http://www.ticketmaster.com/) has sponsored Stas Bekman to work on
+the mod_perl 2.0 development, documentation and the new
+perl.apache.org site (completed in 2002).
+
+=back
+
+
+=head1 Maintainer
+
+The maintainer is the person you should contact with updates,
+corrections and patches.
+
+=over
+
+=item *
+
+Stas Bekman [http://stason.org/]
+
+=back
+
+=cut

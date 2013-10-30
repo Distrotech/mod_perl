@@ -1,0 +1,48 @@
+=head1 NAME
+
+The mod_perl Project Management Committee
+
+=head1 Description
+
+the mod_perl Project Management Committee (PMC) is a group of mod_perl
+committers who take responsibility for the long-term direction of the
+project.
+
+Today, the PMC consists of:
+
+=over
+
+=item * Adam Prime
+
+=item * Ask Bjørn Hansen
+
+=item * Doug MacEachern
+
+=item * Fred Moyer
+
+=item * Geoffrey Young
+
+=item * Joe Schaefer
+
+=item * Perrin Harkins
+
+=item * Philip M. Gollucci
+
+=item * Philippe Chiasson
+
+=item * Randy Kobes (emeritus)
+
+=item * Steve Hay
+
+=item * Torsten Förtsch
+
+=back
+
+=for html
+For more information on the role of the PMC see
+<a href="http://www.apache.org/foundation/how-it-works.html#pmc-members">How
+How the ASF works</a>
+
+
+
+=cut

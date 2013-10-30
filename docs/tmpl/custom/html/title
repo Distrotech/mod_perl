@@ -1,0 +1,38 @@
+[%- IF doc.meta.title.defined -%]
+
+        <!-- some space -->
+        <tr>
+            <td height="20" colspan="4"><br></td>
+        </tr>
+
+        <tr>
+            <!-- title begin -->
+            <td><img src="[%- doc.dir.abs_doc_root -%]/images/trans_pix.gif"></a></td>
+            <td colspan="2" class="headline" valign="bottom" width="100%">[%- doc.meta.title -%]</td>
+            <td width="1"><img src="[%- doc.dir.abs_doc_root -%]/images/trans_pix.gif"></a></td>
+            <!-- title end -->
+        </tr>
+
+
+        <tr>
+            <td height="2" colspan="4"><img src="[%- doc.dir.abs_doc_root -%]/images/trans_pix.gif"></a></td>
+        </tr>
+        <tr>
+            <td><img src="[%- doc.dir.abs_doc_root -%]/images/trans_pix.gif"></a></td>
+            <!-- title line begin -->
+            <td colspan="2" class="blue-bg" height="4"><img src="[%- doc.dir.abs_doc_root -%]/images/trans_pix.gif"></a></td>
+            <td width="1"><img src="[%- doc.dir.abs_doc_root -%]/images/trans_pix.gif"></a></td>
+            <!-- title line end -->
+        </tr>
+        <tr>
+            <td height="2" colspan="4"><img src="[%- doc.dir.abs_doc_root -%]/images/trans_pix.gif"></a></td>
+        </tr>
+
+        <tr class="noPrint">
+            <!-- download begin -->
+            <td colspan="3" align="right" valign="bottom" nowrap>[%- INCLUDE download_link -%]</td>
+            <td width="1"><img src="[%- doc.dir.abs_doc_root -%]/images/trans_pix.gif"></a></td>
+            <!-- download end -->
+        </tr>    
+
+[%- END -%]

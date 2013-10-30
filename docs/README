@@ -1,0 +1,54 @@
+This is mod_perl 2.0 docs documentation+site project repository
+
+the mod_perl project at the Apache Software Foundation lives here
+
+  http://svn.apache.org/repos/asf/perl/
+
+and uses the following structure
+
+  modperl/trunk           # equivalent to cvs HEAD - currently
+                          # the mod_perl 2.0 development branch
+
+  modperl/tags            # every official mod_perl release
+
+  modperl/docs/trunk      # the mod_perl documentation project
+
+Developers with commit access should use https:// to access
+these repositories. See
+
+  http://svnbook.red-bean.com/
+
+for svn information in general, and 
+
+  http://svnbook.red-bean.com/en/1.0/apa.html
+
+for a discussion of svn for cvs users (including migration tools):
+
+You probably want to subscribe to these two mailing lists:
+
+docs-cvs-subscribe@perl.apache.org
+docs-dev-subscribe@perl.apache.org
+
+The first one is for commits and the second is for discussions.
+
+Then you can post to the modperl-docs discussion list. To post take
+the docs-dev-subscribe@perl.apache.org address and remove the
+-subscribe part from it. Please don't advertise the list's direct
+address so we won't get spammed. Thanks.
+
+You can generate diffs with:
+
+% svn diff filename(s)
+
+Send the commits aligned in the body of the message so we can comment on
+them. Unless your browser mangles formatted text. Thanks!
+
+Docs Dev mailing list archive:
+http://marc.theaimsgroup.com/?l=apache-modperl-docs-dev&r=1&w=2
+
+If you are interested in helping us creating great documentation by
+reviewing what gets committed and submitting new docs and patches,
+please subscribe to these two mailing list.
+
+Welcome to the yet another cool project brought to you by Apache
+Software Foundation.
