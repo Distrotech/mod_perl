@@ -22,7 +22,7 @@
 #ifdef MP_DEBUG
 #define MP_INLINE
 #else
-#define MP_INLINE APR_INLINE
+#define MP_INLINE
 #endif
 
 #ifdef CYGWIN
